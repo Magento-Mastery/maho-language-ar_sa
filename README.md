@@ -1,14 +1,14 @@
-# xx_XX language pack for Maho ecommerce platform
+# ar_SA language pack for Maho ecommerce platform
 
-This repository contains the xx_XX language pack for the Maho e-commerce platform.
-It provides localization support for the xx_XX language and region.
+This repository contains the ar_SA language pack for the Maho e-commerce platform.
+It provides localization support for the ar_SA language and region.
 
 ## Installation
 
 To install this language pack, run the following command in your Maho project directory:
 
 ```bash
-composer require mahocommerce/maho-language-xx_XX
+composer require mahocommerce/maho-language-ar_SA
 ```
 
 Then activate the language pack for a website/store/storeview within your Maho backend:
